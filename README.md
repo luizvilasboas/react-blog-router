@@ -4,7 +4,7 @@ This is a blog web-application that I made during one of my Alura's courses. It'
 
 ## Demo
 
-![Demo of blog](https://gitlab.com/olooeez/blog/-/raw/main/img/demo.png)
+![Demo of blog](https://gitlab.com/alura-courses-code/react/blog/-/raw/main/img/demo.png)
 
 You can find a live demo by clicking [here](https://reablog.netlify.app).
 
